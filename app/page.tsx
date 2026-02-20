@@ -2,6 +2,7 @@
 
 import Cta from "@/components/Cta";
 import Footer from "@/components/Footer";
+import Gallery from "@/components/Gallery";
 import Hero from "@/components/Hero";
 import Membership from "@/components/Memebership";
 import Results from "@/components/Results";
@@ -15,6 +16,7 @@ export default function Home() {
       <Hero />
       <Why />
       <Services />
+      <Gallery />
       <Results />
       <Membership />
       <Testimonials />
